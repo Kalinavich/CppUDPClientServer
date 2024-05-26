@@ -1,5 +1,0 @@
-resource1 Hello
-resource2 World!
-resource3 Hello World!
-resource4 resourceN
-noVal
